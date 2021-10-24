@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Betristor
-- 👀 I’m interested in Python, Machine Learning, Reinforcement Learning
-- 🌱 I’m currently learning R and Javascript
+- 👀 I’m interested in Julia, Python, R, Machine Learning, Reinforcement Learning and so on
+- 🌱 I’m currently learning Julia and Javascript
 - 📫 How to reach me 2845024327@qq.com
 
 <!---
