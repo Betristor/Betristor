@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Betristor
-- 👀 I’m interested in Julia, Python, R, Machine Learning, Reinforcement Learning and so on
+- 👀 I’m interested in Julia, Python, R and Matlab languages. As for research fields, I'm devoted to Machine Learning and Reinforcement Learning in energy sectors
 - 🌱 I’m currently learning Julia and Matlab, and developing projects about energy system like power and hydrogen transmission system
-- 📫 How to reach me 2845024327@qq.com
+- 📫 Reach me via 2845024327@qq.com
 
 <!---
 Betristor/Betristor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
